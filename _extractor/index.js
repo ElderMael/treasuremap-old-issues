@@ -18,7 +18,7 @@ async function extractContentFrom(issue) {
                 return html2md(item.description);
 
             case 'header':
-                return `## ${item.description}`;
+                return `${item.description}`;
 
             case 'video':
                 const videoUrl = item.url

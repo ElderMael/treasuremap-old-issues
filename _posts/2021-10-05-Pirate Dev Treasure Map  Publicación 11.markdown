@@ -3,7 +3,7 @@ layout: post
 title: 'Pirate Dev Treasure Map - Publicación #11'
 date: '2021-11-12 19:06:40 UTC'
 ---
-## 
+
 ### PirateDevRadio - S02E07 - Facebook/Meta No Puede Reclutar, Hashicorp Nomad
 <iframe
     width="560" 
@@ -39,7 +39,7 @@ Hola Piratas, en este episodio hablamos de varios tópicos pero sobre todo de No
 * [Facebook’s hiring crisis: Engineers are turning down offers, internal docs show](https://www.protocol.com/workplace/facebook-docs-hiring-recruiting-crisis?utm_source=pocket_mylist)
 * [Thread con Miguel de Icaza](https://twitter.com/migueldeicaza/status/1450290750114123776)
 Puedes escucharlo en [Youtube](https://www.youtube.com/channel/UCIQ_yengMK59I2bsL3443sg), [AnchorFM](https://anchor.fm/pirate-dev-radio).
-## 
+
 Uno de los problemas con los monorepos es que muy pocos sistemas de control de versiones soportan el historial de cambios en monorepos sin tener algunas repercusiones en el rendimiento. En este anuncio de GitHub, git agrega una funcionalidad para taclear este problema.
 ### Make your monorepo feel small with Git’s sparse index | The GitHub Blog
 [![The new sparse index feature makes it feel like you are working in a small repository when working in a focused portion of a monorepo.](https://s3.amazonaws.com/revue/items/images/012/341/789/web/GitHub-Engineering-monorepo-small-sparse-index_social-1.png?1636739255)](https://github.blog/2021-11-10-make-your-monorepo-feel-small-with-gits-sparse-index/?utm_source=pocket_mylist)
@@ -55,12 +55,12 @@ Lift es un plugin que se puede usar con AWS CDK para obtener extensiones para se
 ### GitHub - getlift/lift: Expanding Serverless Framework beyond functions using the AWS CDK
 [![Expanding Serverless Framework beyond functions using the AWS CDK - GitHub - getlift/lift: Expanding Serverless Framework beyond functions using the AWS CDK](https://s3.amazonaws.com/revue/items/images/012/342/775/web/lift?1636742394)](https://github.com/getlift/lift)
 
-## 
+
 Sean Gallagher de Ars Technica nos da una breve introducción para asegurar nuestra vida digital. Les pasamos este artículo a algunos familiares y tuvieron buenos resultados. Siempre hay algo que aprender regresando a lo básico por supuesto.
 ### Securing your digital life, part one: The basics | Ars Technica
 [![In this first of two parts, we go over some security steps everyone should be taking.](https://s3.amazonaws.com/revue/items/images/012/343/081/web/smartphone-security-bubble-760x380.jpg?1636743364)](https://arstechnica.com/features/2021/10/securing-your-digital-life-part-1/)
 
-## 
+
 Miguel ha estado entrevistando mucho durante este mes y más de una vez los reclutadores lo han dejado colgado... hasta ahora! Gracias a Eduardo Urias que nos paso este link, hemos tenido muchisimo exito con este correo para evitar el ghosting 👻👻👻
 ### The Magic Email: A follow-up that works
 [![The Magic Email is a follow-up email you can send to stop being ignored and start getting shit done.](https://s3.amazonaws.com/revue/items/images/012/341/939/web/opengraph.jpg?1636739632)](https://themagicemail.com/)
@@ -69,7 +69,7 @@ Roy Rapoport, de quien hemos puesto material antes, nos da esta perspectiva de l
 ### That Burning Feeling When You’re Right | by Roy Rapoport | Oct, 2021 | Medium
 [![I talked a little bit about what happens when a person is not exactly aligned with the organization within which they try to operate in Candor, Bluntness, Impedance Matching; one of the fundamental…](https://s3.amazonaws.com/revue/items/images/012/342/106/web/0*nz3DgE7GM8mKv3jt.jpg?1636740265)](https://medium.com/@royrapoport/that-burning-feeling-when-youre-right-cee8b8d05492)
 
-## 
+
 Ahora que hablamos de monorepos, se debe entender el impacto en la arquitectura de estos. Miguel ha trabajado con monorepos y polyrepos y encontramos que este artículo da un buen balance de información sobre cómo empezar a migrar de un monorepo a un polyrepo.
 
 Esto depende de tu organización, pero siempre puedes tratar de tener los beneficios de un monorepo con polyrepos!
@@ -80,12 +80,12 @@ Los humanos no escalamos... ¡Pero la documentación sí! Una buena forma de esc
 ### Docs for Developers – Documentation for Everyone
 [![Docs for Developers: An Engineer's Field Guide to Technical Writing](https://s3.amazonaws.com/revue/items/images/012/342/756/web/978-1-4842-7216-9.jpg?1636742228)](https://docsfordevelopers.com/)
 
-## 
+
 Hubo mucha discusión en Twitter sobre hacer bromas con los clientes y personas con las que se interactúa en la vida profesional... desgraciadamente las cosas no son iguales para todos y alguna vez una ex-manager de Miguel le paso este artículo. Desde entonces tenemos esto siempre en cuenta a la hora de hacer presentaciones.
 ### Making Jokes During a Presentation Helps Men But Hurts Women
 [![According to a recent study.](https://s3.amazonaws.com/revue/items/images/012/343/131/web/Mar19_11_922804648.jpg?1636743703)](https://hbr.org/2019/03/making-jokes-during-a-presentation-helps-men-but-hurts-women?utm_source=pocket_mylist)
 
-## 
+
 En este episodio de The Dojo MX, Hector y Alejandro tienen una plática tendida sobre "A Philosophy of Software Design". Este libro ha surgido últimamente como una alternativa a Clean Code y creo que esta plática aporta mucho a entenderla.
 ### Proceso, diseño y complejidad en el software | "A Philosophy of Software Design"
 <iframe
@@ -99,12 +99,12 @@ En este episodio de The Dojo MX, Hector y Alejandro tienen una plática tendida 
     allowfullscreen>
 </iframe>
 
-## 
+
 Un hilo bastante chusco y al mismo tiempo tenebroso sobre Linux y el stack gráfico. Las consecuencias de arquitecturas que fueron hechas hace años se pueden ver aquí.
 ¿Queríais rant sobre el lamentable estado del stack gráfico de Linux? ¡Pues allá vamos! ⬇ ⚠ hilo extremadamente largo y algo técnico (aunque he intentado simplificar)
 Aunque Miguel piensa que Pair Programming también da mas calidad en la mayoría de los casos...
 OH: a pair must deliver more work than an individual (in the context of "allowing" pair programming at university) Nope. Pair programming is about better quality & knowledge transfer, higher quantity is not in the focus...
-## 
+
 Recuerda que si quieres apoyarnos puedes hacerlo de varias maneras: compartiendo este [boletin](http://treasuremap.piratedevradio.tech/), en [Patreon](https://www.patreon.com/eldermael) desde 1 USD, y por supuesto dandonos retroalimentacion.
 ### ElderMael is creating Software Development Podcasts, Screencasts, Articles, Mentoring. | Patreon
 [![Become a patron of ElderMael today: Get access to exclusive content and experiences on the world’s largest membership platform for artists and creators.](https://s3.amazonaws.com/revue/items/images/012/341/632/web/2.jpg?1628975407)](https://www.patreon.com/eldermael)

@@ -8,7 +8,7 @@ date: '2020-08-06 13:00:01 UTC'
 Gracias por su paciencia cada mes con un nuevo episodio!
 
 Esperamos que este boletín les ayude con su crecimiento profesional y se puedan enriquecer con el contenido así como complementar cada episodio de @PirateDevRadio.
-## 
+
 ### PirateDevRadio - S01E11 - Terminos Prestados de Otras Carreras y Psicologia Organizacional
 <iframe
     width="560" 
@@ -40,7 +40,7 @@ Nuestro onceavo episodio. Gracias por escucharnos!
 
 * [Journal Of Occupational And Organizational Psychology](https://onlinelibrary.wiley.com/journal/20448325)
 * [Ley De Conway](https://en.wikipedia.org/wiki/Conway%27s_law)
-## 
+
 Para los desarrolladores de infraestructura, esto podría o no gustarles, pero Terraform ahora soporta TypeScript y Python para crear infraestructura. Muchas veces escuche que Hashicorp decía que no quería tener lenguajes “turing complete” para crear infraestructura por la complejidad pero ahora parece que con la presión que herramientas como Pulumi ha ejercido parece que los hizo cambiar de opinión.
 ### CDK for Terraform: Enabling Python & TypeScript Support
 [![Developers are accustomed to using their own tooling and writing in familiar languages.](undefined)](https://www.hashicorp.com/blog/cdk-for-terraform-enabling-python-and-typescript-support)
@@ -49,7 +49,7 @@ Para los que están interesados en Haskell, la Typeclassopedia es un recurso bue
 ### Typeclassopedia
 [![Originally published 12 March 2009 in issue 13 of the Monad.Reader. Ported to the Haskell wiki in November 2011 by Geheimdienst. This is now the official version of the Typeclassopedia and supersedes the version published in the Monad.Reader.](https://s3.amazonaws.com/revue/items/images/006/343/490/web/Typeclassopedia-diagram.png?1596699648)](https://wiki.haskell.org/Typeclassopedia)
 
-## 
+
 Esta colección de papers de Leslie Lamport, muchos sobre sistemas distribuidos, es bastante extensa y hace poco la descubrí!
 ### The Writings of Leslie Lamport
 [![This document is a sort of scientific
@@ -69,7 +69,7 @@ is available as a pdf file. 
 
 No un artículo como tal, pero ACM abrirá su Biblioteca Digital paulatinamente en los próximos 5 años. ACM es un gran recurso para desarrolladores para artículos académicos.
 Good news! @TheOfficialACM Council met yesterday and passed a major open access resolution: "Council adopts the goal of opening the Digital Library within five years given that this can be achieved in a way that is sustainable for ACM... 1/5
-## 
+
 Hace poco Uber compartió en su blog de ingeniería un artículo sobre la forma en que organizan sus microservicios. En el momento de redactar esta entrada, el artículo por alguna razón fue borrado así que dejo un link en Wayback Machine.
 ### Introducing Domain-Oriented Microservice Architecture | Uber Engineering Blog
 [![<p>Introduction Recently there has been substantial discussion around the downsides of service oriented architectures and microservice architectures in particular. While only a few years ago, many people readily adopted microservice architectures due to the numerous benefits they provide such as flexibility in the form of independent deployments, clear ownership, improvements in system stability, and better separation of concerns, in recent years people have begun to decry microservices for their tendency to greatly increase complexity, sometimes making even trivial features difficult to build. As Uber has grown to around 2,200 critical microservices, we experienced these tradeoffs first hand. Over the last</p>](https://s3.amazonaws.com/revue/items/images/006/343/588/web/unnamed.png?1596700472)](https://web.archive.org/web/20200803012939/https://eng.uber.com/microservice-architecture/)
@@ -78,12 +78,12 @@ Batuhan Tozun de Trendyol Tech escribio este articulo mostrando su arquitectura 
 ### Micro Frontends: How It Changed Our Development Process
 [![All the frontend applications are monolithic in nature. However, the “micro frontends” keyword is very popular in these days. But what’s wrong with traditional-monolithic frontend applications?](https://s3.amazonaws.com/revue/items/images/006/343/536/web/1*Y88y00w33EyXLf4WIIC7TA.png?1596700247)](https://medium.com/trendyol-tech/micro-frontends-how-it-changed-our-development-process-a5cf667356da)
 
-## 
+
 Miguel ha trabajado recientemente con tecnologías de Microsoft y también trabajado desde casa debido a la pandemia del COVID19. Este whitepaper de Microsoft es un material interesante para todos los que se encuentran en esta situación, especialmente para las personas en posiciones de liderazgo.
 ### 7 Tips to Optimize Remote Dev Team Productivity | Microsoft Azure
 [![Read this e-book to learn how to empower your distributed developer team to code, collaborate, and ship efficiently and securely from any location. ](https://s3.amazonaws.com/revue/items/images/006/343/674/web/azure-icon-250x250.png?1596701643)](https://azure.microsoft.com/en-us/resources/7-tips-to-optimize-remote-developer-team-productivity/?utm_campaign=Level+Up&utm_medium=email&utm_source=Revue+newsletter)
 
-## 
+
 En este episodio de "The Dojo MX", Agustin Ramos ([@machinesareus](https://twitter.com/machinesareus)) habla de arquitectura de software. Sin duda Agustín tiene muchísima experiencia (y una colección de libros sobre arquitectura bastante amplia!).
 ### Arquitectura de Software: qué aprender y cómo practicar
 [![Hablaremos con Agustín Ramos (@machinesareus) sobre qué es la arquitectura de software, qué tienes que aprender y cómo puedes practicar.](https://s3.amazonaws.com/revue/items/images/006/343/495/web/maxresdefault.jpg?1596699653)](https://www.youtube.com/watch?v=vfu5PsSH7us&feature=youtu.be)
@@ -92,9 +92,9 @@ Si tienen 6 horas libres, esta conversación entre Enrique Zamudio (chochosmx) y
 ### Twitch
 [![Twitch is the world's leading video platform and community for gamers.](https://s3.amazonaws.com/revue/items/images/006/343/516/web/twitch_logo3.jpg?1596700031)](https://www.twitch.tv/videos/689811891)
 
-## 
+
 2020: Libraries are the reason for software bloat. 1993: Lack of libraries are the reason for software bloat. https://t.co/0P0u6s7B6a
-## 
+
 Google comenzará a expedir certificados para ciertos trabajos.
 ### Google Career Certificates
 [![User experience (UX) designers make technology easier and more enjoyable to use. They create or refine products and interfaces to make them useful, usable, and accessible to users.](https://s3.amazonaws.com/revue/items/images/006/343/573/web/og-image.png?1596700404)](https://grow.google/certificates/)
