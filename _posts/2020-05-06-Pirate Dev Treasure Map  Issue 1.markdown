@@ -8,7 +8,7 @@ date: '2020-06-21 04:00:22 UTC'
 Esperamos que este boletín les ayude con su crecimiento profesional y se puedan enriquecer con el contenido así como complementar cada episodio de @PirateDevRadio.
 ## 
 ### PirateDevRadio - S01E10 - Flash Regresa En Forma de Rust, Trunk Based Development
-< 
+<iframe
     width="560" 
     height="315" 
     src="https://www.youtube.com/embed/6q5kb6sUdqk"
@@ -71,7 +71,7 @@ Este articulo de Christian Posta ya lleva tiempo pero es interesante ver porque 
 ## 
 Phil Webb muestra nuevas características de Spring Boot 2.3. Una de las características mas interesantes es el uso de buildpacks.
 ### Whats New in Spring Boot 2.3
-< 
+<iframe
     width="560" 
     height="315" 
     src="https://www.youtube.com/embed/WL7U-yGfUXA"
@@ -84,7 +84,7 @@ Phil Webb muestra nuevas características de Spring Boot 2.3. Una de las caracte
 
 Una excelente conferencia de Lorena Mesa de GitHub en Strange Loop. La parte mas interesante son los Deep Fakes de Steve Buscemi y la explicación sobre las telenovelas 😂
 ### "¡Escuincla babosa! A Python Deep Learning Telenovela" by Lorena Mesa
-< 
+<iframe
     width="560" 
     height="315" 
     src="https://www.youtube.com/embed/K_KQ4wBpLbY"

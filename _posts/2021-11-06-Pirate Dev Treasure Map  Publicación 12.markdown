@@ -5,7 +5,7 @@ date: '2021-12-26 03:18:38 UTC'
 ---
 ## 
 ### PirateDevRadio - S02E08 - GameBoy Wifi, Log4Shell, Entrevistas
-< 
+<iframe
     width="560" 
     height="315" 
     src="https://www.youtube.com/embed/JneTGOcpOrE"
@@ -92,7 +92,7 @@ Miguel tuvo la fortuna de trabajar recientemente en un equipo donde había un ex
 ## 
 goto; Conferences nos da este video con un montón de recomendaciones para lectura. Muchos de estos libros los hemos leído pero esperamos sorprendernos con otros más.
 ### 32 Book Recommendations for the Holidays • Various Speakers • GOTO 2021
-< 
+<iframe
     width="560" 
     height="315" 
     src="https://www.youtube.com/embed/Pg698WXPtYw"

@@ -5,7 +5,7 @@ date: '2021-10-01 14:20:13 UTC'
 ---
 ## 
 ### PirateDevRadio - S02E06 - Web 3, Centralizacion, Procesos de Desarrollo
-< 
+<iframe
     width="560" 
     height="315" 
     src="https://www.youtube.com/embed/F3ASTpRtAEI"
@@ -78,7 +78,7 @@ Este artículo de Tailscale nos explica como funciona Magic DNS (que permite acc
 ## 
 Miguel ha trabajado durante un tiempo usando [K3s](https://k3s.io/) en su trabajo y le ha encantado. Microshift parece estar convirtiéndose en una alternativa viable (con el sabor de IBM/Red Hat que a algunos les puede agradar). Solo recuerden que las licencias suelen ser costosas 💸💸💸💸
 ### MicroShift End to End Provisioning Demo
-< 
+<iframe
     width="560" 
     height="315" 
     src="https://www.youtube.com/embed/QOiB8NExtA4"
@@ -91,7 +91,7 @@ Miguel ha trabajado durante un tiempo usando [K3s](https://k3s.io/) en su trabaj
 
 Esta presentación de Brandon Sherman nos habla de las limitaciones de la nube desde la perspectiva de infosec. Además de cómo evolucionan los sistemas cuando incluso la nube empieza a mostrar limitaciones de una sola cuenta. ¡Miguel piensa que esta es una presentación que deja bastante que aprender!
 ### "What I wished someone told me before going multi-account" - Brandon Sherman
-< 
+<iframe
     width="560" 
     height="315" 
     src="https://www.youtube.com/embed/_JGXdOyVugg"

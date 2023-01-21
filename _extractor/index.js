@@ -25,7 +25,7 @@ async function extractContentFrom(issue) {
                     .replaceAll('https://youtu.be/', 'https://www.youtube.com/embed/')
                     .replaceAll('https://www.youtube.com/watch?v=', 'https://www.youtube.com/embed/');
                 return `### ${item.description}
-< 
+<iframe
     width="560" 
     height="315" 
     src="${videoUrl}"

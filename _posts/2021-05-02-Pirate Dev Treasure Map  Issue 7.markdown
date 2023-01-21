@@ -14,7 +14,7 @@ Esperamos que este boletín les ayude con su crecimiento profesional y se puedan
 
 ## 
 ### PirateDevRadio - S02E03 - Web Semantica & Dinamica de Trabajo En Startups
-< 
+<iframe
     width="560" 
     height="315" 
     src="https://www.youtube.com/embed/6xvpc9Q2Yac"
@@ -81,7 +81,7 @@ Este artículo es muy útil para aquellos líderes que quieren tener equipos div
 ## 
 Miguel recientemente comenzó a leer "The Win Without Pitching Manifesto" de Blair Enns. Lo recomendamos rotundamente y dejamos aquí una conversación del autor en Youtube sobre negociación de salarios.
 ### Why You Must Raise Your Price (Clubhouse WWPM XI w/ Blair Enns)
-< 
+<iframe
     width="560" 
     height="315" 
     src="https://www.youtube.com/embed/sfyHSbfUCrQ"

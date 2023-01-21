@@ -14,7 +14,7 @@ Esperamos que este boletín les ayude con su crecimiento profesional y se puedan
 
 ## 
 ### PirateDevRadio - S02E01 - Go Tendra Genericos
-< 
+<iframe
     width="560" 
     height="315" 
     src="https://www.youtube.com/embed/xUK11Lc2xo4"
@@ -87,7 +87,7 @@ Miguel ha estado ocupado leyendo un libro llamado "The Practice of Adaptive Lead
 
 Me pasaron este libro en el contexto de que no siempre se trata de alcanzar las expectativas de los que toman decisiones sino de tener influencia y dar contexto para que se tome la mejor decisión.
 ### No: Insubordination in Service of Resiliency and Safety - Roy Rapoport
-< 
+<iframe
     width="560" 
     height="315" 
     src="https://www.youtube.com/embed/QPHembHrX20&list=PLrQPccoPEKbOPqmCHfjBfODYjSl6wcaKt&index=11&t=561s"
@@ -100,7 +100,7 @@ Me pasaron este libro en el contexto de que no siempre se trata de alcanzar las 
 
 En varias mentorias por parte de Devz Community, Miguel ha hecho dos practicas para entrevistas sobre diseño de sistemas. Aqui un video interesante sobre como lo hacen en Google.
 ### Google Systems Design Interview With An Ex-Googler
-< 
+<iframe
     width="560" 
     height="315" 
     src="https://www.youtube.com/embed/q0KGYwNbf-0&list=PLrQPccoPEKbOPqmCHfjBfODYjSl6wcaKt&index=10"

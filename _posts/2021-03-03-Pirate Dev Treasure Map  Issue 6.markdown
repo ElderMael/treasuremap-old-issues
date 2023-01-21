@@ -14,7 +14,7 @@ Esperamos que este boletín les ayude con su crecimiento profesional y se puedan
 
 ## 
 ### PirateDevRadio - S02E02 - Erosion en Software
-< 
+<iframe
     width="560" 
     height="315" 
     src="https://www.youtube.com/embed/gD1tDCCbevE"
@@ -73,7 +73,7 @@ Una de las empresas más poderosas de la industria es PayPal. En este video se e
 
 La parte que realmente es escabroza es que PayPal y su cultura son celebrados como la causa del exito de dicha compañia.
 ### How the Paypal Mafia shaped Silicon Valley
-< 
+<iframe
     width="560" 
     height="315" 
     src="https://www.youtube.com/embed/wb5vXHiDJD4&t=504s"
@@ -87,7 +87,7 @@ La parte que realmente es escabroza es que PayPal y su cultura son celebrados co
 ## 
 Brie Bunge habla sobre cómo AirBnB adoptó TypeScript (uno de los lenguajes favoritos de Miguel).
 ### Adopting Typescript at Scale - Brie Bunge | JSConf Hawaii 2019
-< 
+<iframe
     width="560" 
     height="315" 
     src="https://www.youtube.com/embed/P-J9Eg7hJwE"

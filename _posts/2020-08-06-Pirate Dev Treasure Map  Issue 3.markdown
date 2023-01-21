@@ -12,7 +12,7 @@ Un tema que tocamos fue la situación actual de Mozilla y por consecuencia, proy
 Esperamos que este boletín les ayude con su crecimiento profesional y se puedan enriquecer con el contenido así como complementar cada episodio de @PirateDevRadio.
 ## 
 ### PirateDevRadio - S01E12 - Deuda Tecnica
-< 
+<iframe
     width="560" 
     height="315" 
     src="https://www.youtube.com/embed/XJ6LSGB_JOU"
@@ -91,7 +91,7 @@ Estuve viendo un video donde Miguel De Icaza menciona que los equipos diversos c
 ## 
 En este episodio de "The Dojo MX", Cinthya Romero ([@lacd\_rom](http://twitter.com/lacd_rom)) y Conde ([@LawyerCount](https://twitter.com/LawyerCount)) tienen una charla sobre propiedad intelectual enfocada al desarrollo de software.
 ### Todo lo que debes saber acerca de propiedad intelectual como creador de Software
-< 
+<iframe
     width="560" 
     height="315" 
     src="https://www.youtube.com/embed/CpISQxihazU"
@@ -104,7 +104,7 @@ En este episodio de "The Dojo MX", Cinthya Romero ([@lacd\_rom](http://twitter.c
 
 En Prometheus 101, Ben Kochie nos muestra la arquitectura de Gitlab al usar esta herramienta. Es uno de los videos introductorios que mas me sirvieron para aprender no solo sobre Prometheus sino Alert Manager y Thanos para tener "High Availability".
 ### Prometheus 101
-< 
+<iframe
     width="560" 
     height="315" 
     src="https://www.youtube.com/embed/8Ai55-sYJA0"

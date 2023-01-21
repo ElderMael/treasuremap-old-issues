@@ -5,7 +5,7 @@ date: '2021-11-12 19:06:40 UTC'
 ---
 ## 
 ### PirateDevRadio - S02E07 - Facebook/Meta No Puede Reclutar, Hashicorp Nomad
-< 
+<iframe
     width="560" 
     height="315" 
     src="https://www.youtube.com/embed/BuoVBQkBVGM"
@@ -88,7 +88,7 @@ Hubo mucha discusión en Twitter sobre hacer bromas con los clientes y personas 
 ## 
 En este episodio de The Dojo MX, Hector y Alejandro tienen una plática tendida sobre "A Philosophy of Software Design". Este libro ha surgido últimamente como una alternativa a Clean Code y creo que esta plática aporta mucho a entenderla.
 ### Proceso, diseño y complejidad en el software | "A Philosophy of Software Design"
-< 
+<iframe
     width="560" 
     height="315" 
     src="https://www.youtube.com/embed/RgTHOibnBS8"

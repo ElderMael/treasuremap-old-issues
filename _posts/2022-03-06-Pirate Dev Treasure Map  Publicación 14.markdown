@@ -6,7 +6,7 @@ date: '2022-04-02 19:46:58 UTC'
 ## 
 ¡Hola Piratas! Estamos de regreso y en este episodio, sin querer tuvimos un metapunto sobre cómo es que las tecnologías evolucionan lento y la tendencia a que evolucionemos nuestras herramientas para iniciar con proyectos pequeños y luego evolucionarlas para grandes proyectos.
 ### PirateDevRadio - S02E10 - Proponen Tipado En JavaScript
-< 
+<iframe
     width="560" 
     height="315" 
     src="https://www.youtube.com/embed/Z-o5XLs24Eo"
@@ -99,7 +99,7 @@ Este artículo introductorio a Dagger nos muestra una nueva (aunque quizás no t
 ## 
 Hillel Wayne, alguien bastante activo en Twitter y a quien Miguel sigue desde hace ya un tiempo, tiene una entrevista bastante interesante no solo sobre TLA+ sino de otras formas de comprobación de software.
 ### Strange Loop Chat with Hillel Wayne about TLA+
-< 
+<iframe
     width="560" 
     height="315" 
     src="https://www.youtube.com/embed/B5iRABcC5-Q&t=2s"

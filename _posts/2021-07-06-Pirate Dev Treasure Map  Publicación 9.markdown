@@ -6,7 +6,7 @@ date: '2021-08-14 21:39:17 UTC'
 ## 
 En este episodio, el quinto de nuestra segunda temporada, tenemos por fin un invitado. Jose Fernandez nos ayuda a expandir nuestra perspectiva sobre migraciones tecnológicas (modernizaciones) en compañías grandes.
 ### PirateDevRadio - S02E05 - Migraciones Grandes y su Arquitectura
-< 
+<iframe
     width="560" 
     height="315" 
     src="https://www.youtube.com/embed/LMG_msRJz3I"
@@ -69,7 +69,7 @@ Es muy estereotipado pensar que los programadores y desarrolladores de software 
 ## 
 Adam Shostack, a quien Miguel conoce por haber escrito el libro sobre Threat Modeling, nos da una interesante plática sobre qué esperar en infosec este año. Algo muy rescatable es el modelo que él usa (STRIDE) y como es que sigue tan vigente.
 ### THREAT MODELING IN 2021 with Adam Shostack
-< 
+<iframe
     width="560" 
     height="315" 
     src="https://www.youtube.com/embed/7jB5OS6mepU"

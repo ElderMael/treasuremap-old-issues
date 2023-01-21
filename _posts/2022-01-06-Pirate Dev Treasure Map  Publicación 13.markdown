@@ -5,7 +5,7 @@ date: '2022-02-19 20:15:20 UTC'
 ---
 ## 
 ### PirateDevRadio - S02E09 - Monorepos y LatAm Startups Con Dificultades Para Contratar
-< 
+<iframe
     width="560" 
     height="315" 
     src="https://www.youtube.com/embed/su3TS_8xfDw"
@@ -95,7 +95,7 @@ En este articulo, Lawrence E. Hecht desmenuza el estudio de State of DevOps en r
 ## 
 “Design Microservices Architectures the Right Way” es una plática de Michael Bryzek especialmente interesante para aquellos que no sólo ya tienen una arquitectura de microservicios sino para los que queremos evolucionar.
 ### Design Microservice Architectures the Right Way
-< 
+<iframe
     width="560" 
     height="315" 
     src="https://www.youtube.com/embed/j6ow-UemzBc"
