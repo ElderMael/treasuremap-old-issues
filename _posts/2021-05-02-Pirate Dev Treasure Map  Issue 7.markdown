@@ -10,15 +10,14 @@ Tenemos el tercer episodio de esta temporada enfocado a la dinámica de trabajo 
 Esperamos que este boletín les ayude con su crecimiento profesional y se puedan enriquecer con el contenido así como complementar cada episodio de @PirateDevRadio.
 ## 
 ### ElderMael is creating Software Development Podcasts, Screencasts, Articles and Code | Patreon
-                [![<p>PirateDevRadio ahora esta en patreon.</p>](https://s3.amazonaws.com/revue/items/images/009/597/481/web/1.jpg?1615670462)](https://www.patreon.com/eldermael)
-                
+[![<p>PirateDevRadio ahora esta en patreon.</p>](https://s3.amazonaws.com/revue/items/images/009/597/481/web/1.jpg?1615670462)](https://www.patreon.com/eldermael)
+
 ## 
 ### PirateDevRadio - S02E03 - Web Semantica & Dinamica de Trabajo En Startups
 <iframe 
     width="420" 
     height="315" 
     src="https://www.youtube.com/watch?v=6xvpc9Q2Yac" 
-    frameborder="0" 
     allowfullscreen>
 </iframe>
 ## Topicos
@@ -51,29 +50,29 @@ Este artículo de Andreessen Horowitz nos da el panorama de los costos que se pu
 
 Un problema interesante y un artículo bastante informativo.
 ### The Cost of Cloud, a Trillion Dollar Paradox - Andreessen Horowitz
-                [![There is no doubt that the cloud is one of the most significant platform shifts in the history of computing. Not only has cloud already impacted hundreds of billions of dollars of IT spend, it’s still in early innings and …](https://s3.amazonaws.com/revue/items/images/009/604/451/web/TheTrillionDollarParadox_New-Featured-Image-Template_Desktop-v4.jpg?1623172886)](https://a16z.com/2021/05/27/cost-of-cloud-paradox-market-cap-cloud-lifecycle-scale-growth-repatriation-optimization/)
-                
+[![There is no doubt that the cloud is one of the most significant platform shifts in the history of computing. Not only has cloud already impacted hundreds of billions of dollars of IT spend, it’s still in early innings and …](https://s3.amazonaws.com/revue/items/images/009/604/451/web/TheTrillionDollarParadox_New-Featured-Image-Template_Desktop-v4.jpg?1623172886)](https://a16z.com/2021/05/27/cost-of-cloud-paradox-market-cap-cloud-lifecycle-scale-growth-repatriation-optimization/)
+
 ## 
 James Hamilton publicó este whitepaper sobre diseñar y escalar servicios con altas cargas. Miguel recientemente utilizó partes de este artículo como referencia de una de las presentaciones de mentoría.
 ### On Designing and Deploying
 Internet-Scale Services
-                [![<p>The system-to-administrator ratio is commonly used as a rough metric to understand administrative costs in high-scale services. With smaller, less automated services this ratio can be as low as 2:1, whereas on industry leading, highly automated services, we’ve seen ratios as high as 2,500:1.</p>](undefined)](https://mvdirona.com/jrh/talksAndPapers/JamesRH_Lisa.pdf)
-                
+[![<p>The system-to-administrator ratio is commonly used as a rough metric to understand administrative costs in high-scale services. With smaller, less automated services this ratio can be as low as 2:1, whereas on industry leading, highly automated services, we’ve seen ratios as high as 2,500:1.</p>](undefined)](https://mvdirona.com/jrh/talksAndPapers/JamesRH_Lisa.pdf)
+
 ## 
 Eric Fossas comparte en este artículo los mayores obstáculos que encontró al tener Istio en producción. Miguel nunca fue un fan de Istio y pues existe el sesgo de confirmación y demás pero Linked siempre ha parecido un mejor producto.
 ### Service Mesh Wars, Goodbye Istio. After using Istio in production for… | by Eric Fossas | Polymatic Systems | May, 2021 | Medium
-                [![A lot of service meshes offer advanced features like traffic splitting, retries, timeouts, etc. I rarely believe these are useful or I think it’s a feature that shouldn’t be handled by a sidecar…](https://s3.amazonaws.com/revue/items/images/009/604/823/web/1*EXgfoMXYJWjoXqMhVkZ61Q.jpeg?1623175135)](https://medium.com/polymatic-systems/service-mesh-wars-goodbye-istio-b047d9e533c7)
-                
+[![A lot of service meshes offer advanced features like traffic splitting, retries, timeouts, etc. I rarely believe these are useful or I think it’s a feature that shouldn’t be handled by a sidecar…](https://s3.amazonaws.com/revue/items/images/009/604/823/web/1*EXgfoMXYJWjoXqMhVkZ61Q.jpeg?1623175135)](https://medium.com/polymatic-systems/service-mesh-wars-goodbye-istio-b047d9e533c7)
+
 ## 
 ¿Ustedes han practicado pair programming constantemente? Aunque Miguel lo ha hecho durante varios años ya, creemos que este artículo de Nat Bennett también muestra que no es sostenible hacerlo todo el tiempo.
 ### The Mortifying Ordeal of Pairing All Day
-                [![I had to confront a lot of my fears about myself, sometimes every day. I had to learn to show someone else all the things I didn’t know, my limitations as a human and a software engineer.](https://s3.amazonaws.com/revue/items/images/009/604/514/web/mortifyingordeal-1.jpeg?1623173248)](https://www.simplermachines.com/the-mortifying-ordeal-of-pairing-all-day/)
-                
+[![I had to confront a lot of my fears about myself, sometimes every day. I had to learn to show someone else all the things I didn’t know, my limitations as a human and a software engineer.](https://s3.amazonaws.com/revue/items/images/009/604/514/web/mortifyingordeal-1.jpeg?1623173248)](https://www.simplermachines.com/the-mortifying-ordeal-of-pairing-all-day/)
+
 ## 
 Este artículo es muy útil para aquellos líderes que quieren tener equipos diversos e inclusivos. Gracias a Will Larson por el tiempo de escribirlo y publicarlo.
 ### Stuff I've learned about Diversity, Equity and Inclusion over the past few years. | Irrational Exuberance
-                [![When I wrote An Elegant Puzzle, I wanted to document some of the structured ways I’d learned to foster inclusion within the organizations, which surfaced in a number of sections, including Opportunity &amp; Membership, Selecting project leads, Inclusion in the first shift, and Work the policy, not the exceptions. Those pieces continue to reflect my values, but they often operated on an aspirational level without acknowledging the grittier, more ambiguous layers beneath the ideals where you spend most of your time attempting to effect change. In these notes I want to focus on what I’ve seen work over time.](https://s3.amazonaws.com/revue/items/images/009/604/796/web/author.png?1623174829)](https://lethain.com/stuff-learned-about-dei-2020/)
-                
+[![When I wrote An Elegant Puzzle, I wanted to document some of the structured ways I’d learned to foster inclusion within the organizations, which surfaced in a number of sections, including Opportunity &amp; Membership, Selecting project leads, Inclusion in the first shift, and Work the policy, not the exceptions. Those pieces continue to reflect my values, but they often operated on an aspirational level without acknowledging the grittier, more ambiguous layers beneath the ideals where you spend most of your time attempting to effect change. In these notes I want to focus on what I’ve seen work over time.](https://s3.amazonaws.com/revue/items/images/009/604/796/web/author.png?1623174829)](https://lethain.com/stuff-learned-about-dei-2020/)
+
 ## 
 Miguel recientemente comenzó a leer "The Win Without Pitching Manifesto" de Blair Enns. Lo recomendamos rotundamente y dejamos aquí una conversación del autor en Youtube sobre negociación de salarios.
 ### Why You Must Raise Your Price (Clubhouse WWPM XI w/ Blair Enns)
@@ -81,7 +80,6 @@ Miguel recientemente comenzó a leer "The Win Without Pitching Manifesto" de Bla
     width="420" 
     height="315" 
     src="https://www.youtube.com/watch?v=sfyHSbfUCrQ" 
-    frameborder="0" 
     allowfullscreen>
 </iframe>
 ## 

@@ -9,7 +9,6 @@ date: '2022-02-19 20:15:20 UTC'
     width="420" 
     height="315" 
     src="https://www.youtube.com/watch?v=su3TS_8xfDw" 
-    frameborder="0" 
     allowfullscreen>
 </iframe>
 Hola Piratas! Estamos de regreso. En este episodio el tema principal fue Monorepos y aunque la platica fue corta, tambien fue el primer episodio que dimos en vivo por Twitter Spaces.
@@ -48,12 +47,12 @@ Puedes escucharlo en [Youtube](https://www.youtube.com/channel/UCIQ_yengMK59I2bs
 ## 
 En su nuevo trabajo, Miguel ha comenzado a usar Conversational Commits sin saber sobre ellos. Al indagar un poco, encontramos esta especificación que parece ser adoptada cada vez más dentro de varias comunidades OSS.
 ### Conventional Commits
-                [![A specification for adding human and machine readable meaning to commit messages](undefined)](https://www.conventionalcommits.org/en/v1.0.0/)
-                
+[![A specification for adding human and machine readable meaning to commit messages](undefined)](https://www.conventionalcommits.org/en/v1.0.0/)
+
 Uber Engineering nos trae este artículo sobre sus componentes y arquitectura para escalar sus servicios. Nos cuentan tanto el sistema actual así como el nuevo sistema llamado CRE (Capacity Recommendation Engine).
 ### Capacity Recommendation Engine: Throughput and Utilization Based Predictive Scaling
-                [![<p>Capacity is a key component of reliability. Uber's services require enough resources in order to handle daily peak traffic and to support our different kinds of business units.</p>](https://s3.amazonaws.com/revue/items/images/014/235/460/web/Cre-Blog-Feature-Image.jpeg?1645162455)](https://eng.uber.com/capacity-recommendation-engine/?utm_source=pocket_mylist)
-                
+[![<p>Capacity is a key component of reliability. Uber's services require enough resources in order to handle daily peak traffic and to support our different kinds of business units.</p>](https://s3.amazonaws.com/revue/items/images/014/235/460/web/Cre-Blog-Feature-Image.jpeg?1645162455)](https://eng.uber.com/capacity-recommendation-engine/?utm_source=pocket_mylist)
+
 🏴‍☠️🏴‍☠️🏴‍☠️
 
 ## Apoyanos en Patreon
@@ -64,30 +63,30 @@ Uber Engineering nos trae este artículo sobre sus componentes y arquitectura pa
 ## 
 Parisa Tabriz, por medio de freeCodeCamp, publicó este artículo con algunos consejos para iniciar en Info Sec. Al menos a Miguel le ayudó bastante para tener algo de perspectiva.
 ### So, you want to work in security?
-                [![by Parisa Tabriz So, you want to work in security? Every once in a while, I’ll get an email from an eager stranger asking for advice on how to have a career in security (computer, information, cyber… whatever). This is great! We need more passionate, creative, hard-working people that want](undefined)](https://www.freecodecamp.org/news/so-you-want-to-work-in-security-bc6c10157d23/?utm_source=pocket_mylist)
-                
+[![by Parisa Tabriz So, you want to work in security? Every once in a while, I’ll get an email from an eager stranger asking for advice on how to have a career in security (computer, information, cyber… whatever). This is great! We need more passionate, creative, hard-working people that want](undefined)](https://www.freecodecamp.org/news/so-you-want-to-work-in-security-bc6c10157d23/?utm_source=pocket_mylist)
+
 ## 
 Este artículo del New York Times escrito por Noam Scheiber nos muestra el lado oscuro del liderazgo y como se puede usar en perjuicio de las personas. La discriminacion por edad por parte IBM se ve expuesta y es algo en que pensar.
 ### Making ‘Dinobabies’ Extinct: IBM’s Push for a Younger Work Force - The New York Times
-                [![Documents released in an age-discrimination case appear to show high-level discussion about paring the ranks of older employees.](https://s3.amazonaws.com/revue/items/images/014/261/580/web/12ibm-01alt-facebookJumbo.jpg?1645298267)](https://www.nytimes.com/2022/02/12/business/economy/ibm-age-discrimination.html?utm_source=pocket_mylist)
-                
+[![Documents released in an age-discrimination case appear to show high-level discussion about paring the ranks of older employees.](https://s3.amazonaws.com/revue/items/images/014/261/580/web/12ibm-01alt-facebookJumbo.jpg?1645298267)](https://www.nytimes.com/2022/02/12/business/economy/ibm-age-discrimination.html?utm_source=pocket_mylist)
+
 ## 
 LocalStack es un proyecto que permite tener un proyecto Serverless totalmente local i.e. sin necesidad de una nube. Miguel ha empezado a usar este proyecto para desarrollar Lambdas en Golang y le pareció interesante el poder correr pruebas de integración usando este código.
 ### LocalStack - A fully functional local cloud stack
-                [![Develop and test your cloud apps offline.](https://s3.amazonaws.com/revue/items/images/014/261/683/web/localstack.png?1645298935)](https://localstack.cloud/?utm_source=pocket_mylist)
-                
+[![Develop and test your cloud apps offline.](https://s3.amazonaws.com/revue/items/images/014/261/683/web/localstack.png?1645298935)](https://localstack.cloud/?utm_source=pocket_mylist)
+
 ## 
 Hack.Diversity es una comunidad de mentores para comunidades poco representadas dentro de Tech. Si están buscando mentores o mentorear (o incluso emplear) personas de estas comunidades, les recomiendo ver esta página.
 ### Mentor Early Career Underrepresented Tech Talent | Hack Diversity — Hack.Diversity
-                [![Are you passionate about supporting underrepresented talent in tech? Apply 
+[![Are you passionate about supporting underrepresented talent in tech? Apply 
 to mentor Hack.Diversity Fellows and help shape our DEI programming for 
 partner companies.](https://s3.amazonaws.com/revue/items/images/014/262/079/web/2022_2BMentor_2BRecruitment_2BIG.jpg?1645300420)](https://www.hackdiversity.com/volunteer)
-                
+
 ## 
 En este articulo, Lawrence E. Hecht desmenuza el estudio de State of DevOps en relación a equipos de alto rendimiento. Esto es importante porque la práctica ayuda a llegar a este tipo de equipos, al menos en parte, con técnicas y metodologías que permiten acortar los ciclos de retroalimentación.
 ### Google on the DevOps ‘Elite’ and Everyone Else – The New Stack
-                [![After two waves of DevOps adoption, some companies that have fully embraced DevOps best practices are achieving better software delivery and operational performance metrics than their peers.](https://s3.amazonaws.com/revue/items/images/014/262/053/web/a35abbb4-accelerate.png?1645300244)](https://thenewstack.io/google-on-the-devops-elite-and-everyone-else/?utm_source=pocket_mylist)
-                
+[![After two waves of DevOps adoption, some companies that have fully embraced DevOps best practices are achieving better software delivery and operational performance metrics than their peers.](https://s3.amazonaws.com/revue/items/images/014/262/053/web/a35abbb4-accelerate.png?1645300244)](https://thenewstack.io/google-on-the-devops-elite-and-everyone-else/?utm_source=pocket_mylist)
+
 ## 
 “Design Microservices Architectures the Right Way” es una plática de Michael Bryzek especialmente interesante para aquellos que no sólo ya tienen una arquitectura de microservicios sino para los que queremos evolucionar.
 ### Design Microservice Architectures the Right Way
@@ -95,7 +94,6 @@ En este articulo, Lawrence E. Hecht desmenuza el estudio de State of DevOps en r
     width="420" 
     height="315" 
     src="https://www.youtube.com/watch?v=j6ow-UemzBc" 
-    frameborder="0" 
     allowfullscreen>
 </iframe>
 ## 
@@ -107,10 +105,10 @@ Primer episodio de @PirateDevRadio que grabamos como twitter space. Gracias a lo
 ## 
 Recuerda que si quieres apoyarnos puedes hacerlo de varias maneras: compartiendo este [boletin](http://treasuremap.piratedevradio.tech/), en [Patreon](https://www.patreon.com/eldermael) desde 1 USD, y por supuesto dandonos retroalimentacion.
 ### ElderMael is creating Software Development Podcasts, Screencasts, Articles, Mentoring. | Patreon
-                [![Become a patron of ElderMael today: Get access to exclusive content and experiences on the world’s largest membership platform for artists and creators.](https://s3.amazonaws.com/revue/items/images/014/235/206/web/2.jpg?1628975407)](https://www.patreon.com/eldermael)
-                
+[![Become a patron of ElderMael today: Get access to exclusive content and experiences on the world’s largest membership platform for artists and creators.](https://s3.amazonaws.com/revue/items/images/014/235/206/web/2.jpg?1628975407)](https://www.patreon.com/eldermael)
+
 Por ultimo, recuerden que ya tenemos sitio web con links a mas contenido que pueden visitar ya.
 ### PirateDevRadio - Podcast
-                [![Somos un podcast de tecnologia y desarrollo de software por @ElderMael  y @Geraz69](https://s3.amazonaws.com/revue/items/images/014/235/208/web/new-splashscreen-2.jpg?1628976243)](https://piratedevradio.tech/)
-                
+[![Somos un podcast de tecnologia y desarrollo de software por @ElderMael  y @Geraz69](https://s3.amazonaws.com/revue/items/images/014/235/208/web/new-splashscreen-2.jpg?1628976243)](https://piratedevradio.tech/)
+
         

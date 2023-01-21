@@ -26,14 +26,13 @@ async function extractContentFrom(issue) {
     width="420" 
     height="315" 
     src="${item.url}" 
-    frameborder="0" 
     allowfullscreen>
 </iframe>`;
 
             case 'link':
                 return `### ${item.title}
-                [![${item.description}](${item.image})](${item.url})
-                `;
+[![${item.description}](${item.image})](${item.url})
+`;
         }
 
         return html2md(item.description);
