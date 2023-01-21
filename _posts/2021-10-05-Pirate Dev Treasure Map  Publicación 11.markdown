@@ -5,13 +5,13 @@ date: '2021-11-12 19:06:40 UTC'
 ---
 ## 
 ### PirateDevRadio - S02E07 - Facebook/Meta No Puede Reclutar, Hashicorp Nomad
-                <iframe 
-                    width="420" 
-                    height="315" 
-                    src="https://www.youtube.com/watch?v=BuoVBQkBVGM" 
-                    frameborder="0" 
-                    allowfullscreen>
-                </iframe>
+<iframe 
+    width="420" 
+    height="315" 
+    src="https://www.youtube.com/watch?v=BuoVBQkBVGM" 
+    frameborder="0" 
+    allowfullscreen>
+</iframe>
 Hola Piratas, en este episodio hablamos de varios tópicos pero sobre todo de Nomad y Facebook. Esperemos que les guste.
 ## Topicos
 
@@ -84,13 +84,13 @@ Hubo mucha discusión en Twitter sobre hacer bromas con los clientes y personas 
 ## 
 En este episodio de The Dojo MX, Hector y Alejandro tienen una plática tendida sobre "A Philosophy of Software Design". Este libro ha surgido últimamente como una alternativa a Clean Code y creo que esta plática aporta mucho a entenderla.
 ### Proceso, diseño y complejidad en el software | "A Philosophy of Software Design"
-                <iframe 
-                    width="420" 
-                    height="315" 
-                    src="https://www.youtube.com/watch?v=RgTHOibnBS8" 
-                    frameborder="0" 
-                    allowfullscreen>
-                </iframe>
+<iframe 
+    width="420" 
+    height="315" 
+    src="https://www.youtube.com/watch?v=RgTHOibnBS8" 
+    frameborder="0" 
+    allowfullscreen>
+</iframe>
 ## 
 Un hilo bastante chusco y al mismo tiempo tenebroso sobre Linux y el stack gráfico. Las consecuencias de arquitecturas que fueron hechas hace años se pueden ver aquí.
 ¿Queríais rant sobre el lamentable estado del stack gráfico de Linux? ¡Pues allá vamos! ⬇ ⚠ hilo extremadamente largo y algo técnico (aunque he intentado simplificar)

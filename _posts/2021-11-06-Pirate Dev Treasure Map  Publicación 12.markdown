@@ -5,13 +5,13 @@ date: '2021-12-26 03:18:38 UTC'
 ---
 ## 
 ### PirateDevRadio - S02E08 - GameBoy Wifi, Log4Shell, Entrevistas
-                <iframe 
-                    width="420" 
-                    height="315" 
-                    src="https://www.youtube.com/watch?v=JneTGOcpOrE" 
-                    frameborder="0" 
-                    allowfullscreen>
-                </iframe>
+<iframe 
+    width="420" 
+    height="315" 
+    src="https://www.youtube.com/watch?v=JneTGOcpOrE" 
+    frameborder="0" 
+    allowfullscreen>
+</iframe>
 Hola Piratas! En este episodio hablamos sobre Log4Shell y del proceso de entrevistas para desarrolladores.
 
 Miguel y Gerardo, sus servidores, aprovechamos para desearles felices fiestas!
@@ -88,13 +88,13 @@ Miguel tuvo la fortuna de trabajar recientemente en un equipo donde había un ex
 ## 
 goto; Conferences nos da este video con un montón de recomendaciones para lectura. Muchos de estos libros los hemos leído pero esperamos sorprendernos con otros más.
 ### 32 Book Recommendations for the Holidays • Various Speakers • GOTO 2021
-                <iframe 
-                    width="420" 
-                    height="315" 
-                    src="https://www.youtube.com/watch?v=Pg698WXPtYw" 
-                    frameborder="0" 
-                    allowfullscreen>
-                </iframe>
+<iframe 
+    width="420" 
+    height="315" 
+    src="https://www.youtube.com/watch?v=Pg698WXPtYw" 
+    frameborder="0" 
+    allowfullscreen>
+</iframe>
 ## 
 Para quienes les gusta la programación letrada con Emacs
 Literate programming in #emacs using org mode and org babel. https://t.co/AOpYwpnmq7

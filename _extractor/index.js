@@ -22,13 +22,13 @@ async function extractContentFrom(issue) {
 
             case 'video':
                 return `### ${item.description}
-                <iframe 
-                    width="420" 
-                    height="315" 
-                    src="${item.url}" 
-                    frameborder="0" 
-                    allowfullscreen>
-                </iframe>`;
+<iframe 
+    width="420" 
+    height="315" 
+    src="${item.url}" 
+    frameborder="0" 
+    allowfullscreen>
+</iframe>`;
 
             case 'link':
                 return `### ${item.title}

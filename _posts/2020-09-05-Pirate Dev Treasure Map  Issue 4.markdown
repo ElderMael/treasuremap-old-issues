@@ -12,13 +12,13 @@ También les informamos (si no han visto el episodio ya!) que tomaremos un desca
 Esperamos que este boletín les ayude con su crecimiento profesional y se puedan enriquecer con el contenido así como complementar cada episodio de @PirateDevRadio.
 ## 
 ### PirateDevRadio - S01E13 - Tribus De Programadores?
-                <iframe 
-                    width="420" 
-                    height="315" 
-                    src="https://youtu.be/vWvqazONpy4" 
-                    frameborder="0" 
-                    allowfullscreen>
-                </iframe>
+<iframe 
+    width="420" 
+    height="315" 
+    src="https://youtu.be/vWvqazONpy4" 
+    frameborder="0" 
+    allowfullscreen>
+</iframe>
 ## Topicos
 
 ## True Bear
@@ -75,22 +75,22 @@ El algoritmo para recortar la parte de las imágenes que se mostraran en un twee
 ## 
 Miguel es un fan de Jessica Kerr y sus explicaciones. Recientemente en el circulo de conferencias de GOTO; tenemos esta joya. No les haremos spoilers. Veanla por favor.
 ### GOTO 2020 • Investigation and Creation of Software • Jessica Kerr
-                <iframe 
-                    width="420" 
-                    height="315" 
-                    src="https://www.youtube.com/watch?v=S-LWg-tHboY" 
-                    frameborder="0" 
-                    allowfullscreen>
-                </iframe>
+<iframe 
+    width="420" 
+    height="315" 
+    src="https://www.youtube.com/watch?v=S-LWg-tHboY" 
+    frameborder="0" 
+    allowfullscreen>
+</iframe>
 Miguel tuvo la fortuna de estar en vivo en este episodio de The Open Enchilada Project donde Miguel Barajas (@gnuowned) tuvo invitados especiales hablando de varios temas. El tópico más interesante para Miguel fue todo acerca del Edge Computing.
 ### The Open Enchilada Project - Invitados @douglax y @imcsk8
-                <iframe 
-                    width="420" 
-                    height="315" 
-                    src="https://www.youtube.com/watch?v=OP7L74SclFM" 
-                    frameborder="0" 
-                    allowfullscreen>
-                </iframe>
+<iframe 
+    width="420" 
+    height="315" 
+    src="https://www.youtube.com/watch?v=OP7L74SclFM" 
+    frameborder="0" 
+    allowfullscreen>
+</iframe>
 ## 
 Y aqui vamos de nuevo!
 2000's: use relational databases 2010's: actually, use document databases 2020's: nvm, use relational databases

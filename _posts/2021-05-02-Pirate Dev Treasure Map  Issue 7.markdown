@@ -14,13 +14,13 @@ Esperamos que este boletín les ayude con su crecimiento profesional y se puedan
                 
 ## 
 ### PirateDevRadio - S02E03 - Web Semantica & Dinamica de Trabajo En Startups
-                <iframe 
-                    width="420" 
-                    height="315" 
-                    src="https://www.youtube.com/watch?v=6xvpc9Q2Yac" 
-                    frameborder="0" 
-                    allowfullscreen>
-                </iframe>
+<iframe 
+    width="420" 
+    height="315" 
+    src="https://www.youtube.com/watch?v=6xvpc9Q2Yac" 
+    frameborder="0" 
+    allowfullscreen>
+</iframe>
 ## Topicos
 
 ## Platica de Miguel en Java Mexico
@@ -77,13 +77,13 @@ Este artículo es muy útil para aquellos líderes que quieren tener equipos div
 ## 
 Miguel recientemente comenzó a leer "The Win Without Pitching Manifesto" de Blair Enns. Lo recomendamos rotundamente y dejamos aquí una conversación del autor en Youtube sobre negociación de salarios.
 ### Why You Must Raise Your Price (Clubhouse WWPM XI w/ Blair Enns)
-                <iframe 
-                    width="420" 
-                    height="315" 
-                    src="https://www.youtube.com/watch?v=sfyHSbfUCrQ" 
-                    frameborder="0" 
-                    allowfullscreen>
-                </iframe>
+<iframe 
+    width="420" 
+    height="315" 
+    src="https://www.youtube.com/watch?v=sfyHSbfUCrQ" 
+    frameborder="0" 
+    allowfullscreen>
+</iframe>
 ## 
 ¿Consideran que en su trabajo siempre se quedan estancados o no tienen las herramientas necesarias para seguir progresando? Este tweet de Shreyas Doshi podría ayudarte a ver como hacer que las cosas se muevan. Esto ayudó mucho a Miguel en retrospectiva sobre varias situaciones laborales con respecto a no tener las herramientas necesarias y evitar la frustración.
 Let’s talk about High Agency: an attitude I’ve seen in every successful product manager & leader I’ve known. Some ppl are born/raised with High Agency. It can also be developed later in life. High agency is a prerequisite for making a profound impact in one's life & work 1/20 https://t.co/8vPSbj4lKF

@@ -6,13 +6,13 @@ date: '2022-04-02 19:46:58 UTC'
 ## 
 ¡Hola Piratas! Estamos de regreso y en este episodio, sin querer tuvimos un metapunto sobre cómo es que las tecnologías evolucionan lento y la tendencia a que evolucionemos nuestras herramientas para iniciar con proyectos pequeños y luego evolucionarlas para grandes proyectos.
 ### PirateDevRadio - S02E10 - Proponen Tipado En JavaScript
-                <iframe 
-                    width="420" 
-                    height="315" 
-                    src="https://www.youtube.com/watch?v=Z-o5XLs24Eo" 
-                    frameborder="0" 
-                    allowfullscreen>
-                </iframe>
+<iframe 
+    width="420" 
+    height="315" 
+    src="https://www.youtube.com/watch?v=Z-o5XLs24Eo" 
+    frameborder="0" 
+    allowfullscreen>
+</iframe>
 ## Topicos
 
 ## Flowchart Generator Software for BBC Micro running on BeebEm
@@ -95,13 +95,13 @@ Este artículo introductorio a Dagger nos muestra una nueva (aunque quizás no t
 ## 
 Hillel Wayne, alguien bastante activo en Twitter y a quien Miguel sigue desde hace ya un tiempo, tiene una entrevista bastante interesante no solo sobre TLA+ sino de otras formas de comprobación de software.
 ### Strange Loop Chat with Hillel Wayne about TLA+
-                <iframe 
-                    width="420" 
-                    height="315" 
-                    src="https://www.youtube.com/watch?v=B5iRABcC5-Q&t=2s" 
-                    frameborder="0" 
-                    allowfullscreen>
-                </iframe>
+<iframe 
+    width="420" 
+    height="315" 
+    src="https://www.youtube.com/watch?v=B5iRABcC5-Q&t=2s" 
+    frameborder="0" 
+    allowfullscreen>
+</iframe>
 ## 
 🤯🤯🤯
 🤯 NAVEGA los cambios de un fichero de GITHUB de esta forma tan INCREÍBLE. ¡Te enseño cómo en 20 segundos! ⬇️ https://t.co/La6jgMoA6E

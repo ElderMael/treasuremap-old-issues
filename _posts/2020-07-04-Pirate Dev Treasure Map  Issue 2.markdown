@@ -10,13 +10,13 @@ Gracias por su paciencia cada mes con un nuevo episodio!
 Esperamos que este boletín les ayude con su crecimiento profesional y se puedan enriquecer con el contenido así como complementar cada episodio de @PirateDevRadio.
 ## 
 ### PirateDevRadio - S01E11 - Terminos Prestados de Otras Carreras y Psicologia Organizacional
-                <iframe 
-                    width="420" 
-                    height="315" 
-                    src="https://youtu.be/Qj8mgk7ZneY" 
-                    frameborder="0" 
-                    allowfullscreen>
-                </iframe>
+<iframe 
+    width="420" 
+    height="315" 
+    src="https://youtu.be/Qj8mgk7ZneY" 
+    frameborder="0" 
+    allowfullscreen>
+</iframe>
 Nuestro onceavo episodio. Gracias por escucharnos!
 
 ## Topicos

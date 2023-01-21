@@ -14,13 +14,13 @@ Esperamos que este boletín les ayude con su crecimiento profesional y se puedan
                 
 ## 
 ### PirateDevRadio - S02E02 - Erosion en Software
-                <iframe 
-                    width="420" 
-                    height="315" 
-                    src="https://www.youtube.com/watch?v=gD1tDCCbevE" 
-                    frameborder="0" 
-                    allowfullscreen>
-                </iframe>
+<iframe 
+    width="420" 
+    height="315" 
+    src="https://www.youtube.com/watch?v=gD1tDCCbevE" 
+    frameborder="0" 
+    allowfullscreen>
+</iframe>
 ## Topicos
 
 ## Erosion de Software, Hardware, etc.
@@ -69,23 +69,23 @@ Una de las empresas más poderosas de la industria es PayPal. En este video se e
 
 La parte que realmente es escabroza es que PayPal y su cultura son celebrados como la causa del exito de dicha compañia.
 ### How the Paypal Mafia shaped Silicon Valley
-                <iframe 
-                    width="420" 
-                    height="315" 
-                    src="https://www.youtube.com/watch?v=wb5vXHiDJD4&t=504s" 
-                    frameborder="0" 
-                    allowfullscreen>
-                </iframe>
+<iframe 
+    width="420" 
+    height="315" 
+    src="https://www.youtube.com/watch?v=wb5vXHiDJD4&t=504s" 
+    frameborder="0" 
+    allowfullscreen>
+</iframe>
 ## 
 Brie Bunge habla sobre cómo AirBnB adoptó TypeScript (uno de los lenguajes favoritos de Miguel).
 ### Adopting Typescript at Scale - Brie Bunge | JSConf Hawaii 2019
-                <iframe 
-                    width="420" 
-                    height="315" 
-                    src="https://www.youtube.com/watch?v=P-J9Eg7hJwE" 
-                    frameborder="0" 
-                    allowfullscreen>
-                </iframe>
+<iframe 
+    width="420" 
+    height="315" 
+    src="https://www.youtube.com/watch?v=P-J9Eg7hJwE" 
+    frameborder="0" 
+    allowfullscreen>
+</iframe>
 ## 
 Definitivamente no recomiendo usar Kubernetes si no es manejado (EKS, AKS, Openshift en las diferentes nubes).
 🤣🤣🤣🤣🤣🤣

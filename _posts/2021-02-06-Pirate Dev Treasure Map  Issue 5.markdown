@@ -14,13 +14,13 @@ Esperamos que este boletín les ayude con su crecimiento profesional y se puedan
                 
 ## 
 ### PirateDevRadio - S02E01 - Go Tendra Genericos
-                <iframe 
-                    width="420" 
-                    height="315" 
-                    src="https://www.youtube.com/watch?v=xUK11Lc2xo4" 
-                    frameborder="0" 
-                    allowfullscreen>
-                </iframe>
+<iframe 
+    width="420" 
+    height="315" 
+    src="https://www.youtube.com/watch?v=xUK11Lc2xo4" 
+    frameborder="0" 
+    allowfullscreen>
+</iframe>
 ## Topicos
 
 ## Atributo ping En Hipervinculos
@@ -83,22 +83,22 @@ Miguel ha estado ocupado leyendo un libro llamado "The Practice of Adaptive Lead
 
 Me pasaron este libro en el contexto de que no siempre se trata de alcanzar las expectativas de los que toman decisiones sino de tener influencia y dar contexto para que se tome la mejor decisión.
 ### No: Insubordination in Service of Resiliency and Safety - Roy Rapoport
-                <iframe 
-                    width="420" 
-                    height="315" 
-                    src="https://www.youtube.com/watch?v=QPHembHrX20&list=PLrQPccoPEKbOPqmCHfjBfODYjSl6wcaKt&index=11&t=561s" 
-                    frameborder="0" 
-                    allowfullscreen>
-                </iframe>
+<iframe 
+    width="420" 
+    height="315" 
+    src="https://www.youtube.com/watch?v=QPHembHrX20&list=PLrQPccoPEKbOPqmCHfjBfODYjSl6wcaKt&index=11&t=561s" 
+    frameborder="0" 
+    allowfullscreen>
+</iframe>
 En varias mentorias por parte de Devz Community, Miguel ha hecho dos practicas para entrevistas sobre diseño de sistemas. Aqui un video interesante sobre como lo hacen en Google.
 ### Google Systems Design Interview With An Ex-Googler
-                <iframe 
-                    width="420" 
-                    height="315" 
-                    src="https://www.youtube.com/watch?v=q0KGYwNbf-0&list=PLrQPccoPEKbOPqmCHfjBfODYjSl6wcaKt&index=10" 
-                    frameborder="0" 
-                    allowfullscreen>
-                </iframe>
+<iframe 
+    width="420" 
+    height="315" 
+    src="https://www.youtube.com/watch?v=q0KGYwNbf-0&list=PLrQPccoPEKbOPqmCHfjBfODYjSl6wcaKt&index=10" 
+    frameborder="0" 
+    allowfullscreen>
+</iframe>
 ## 
 Ya estoy usando algunos de estos sitios. Comparto porque han sido útiles.
 Are you a web developer? Here 5 websites that will save you 4+ hours per week ↓

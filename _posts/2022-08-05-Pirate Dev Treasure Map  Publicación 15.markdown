@@ -6,13 +6,13 @@ date: '2022-09-03 04:48:24 UTC'
 ## 
 ¡Ahoy Piratas!, estamos de regreso con un capítulo sobre arquitectura de software. Aunque pudimos habernos puesto muy académicos con el episodio, decidimos hacerlo un poco más práctico con un ejercicio que Miguel ha usado de vez en cuando. También usando las notas de dos cursos de arquitectura que Miguel ha atendido.
 ### PirateDevRadio - S02E12 - Arquitectura de Software
-                <iframe 
-                    width="420" 
-                    height="315" 
-                    src="https://www.youtube.com/watch?v=LGQhuVwRx98" 
-                    frameborder="0" 
-                    allowfullscreen>
-                </iframe>
+<iframe 
+    width="420" 
+    height="315" 
+    src="https://www.youtube.com/watch?v=LGQhuVwRx98" 
+    frameborder="0" 
+    allowfullscreen>
+</iframe>
 ## Topicos
 
 ## Links Rapidos
@@ -110,13 +110,13 @@ Miguel ha visto incrementarse el uso de Rust en utilidades y tecnologías DevOps
 ## 
 Miguel tiene la fortuna de ser invitado en The Dojo MX y esta vez hablamos de varias técnicas de gobierno de arquitectura. Entre RFC, Serverless y demás, un buen episodio.
 ### ¿En qué andamos? | Haciendo aplicaciones web con Miguel Enríquez
-                <iframe 
-                    width="420" 
-                    height="315" 
-                    src="https://www.youtube.com/watch?v=caF0ZoyN5z4" 
-                    frameborder="0" 
-                    allowfullscreen>
-                </iframe>
+<iframe 
+    width="420" 
+    height="315" 
+    src="https://www.youtube.com/watch?v=caF0ZoyN5z4" 
+    frameborder="0" 
+    allowfullscreen>
+</iframe>
 ## 
 Todos sabemos que Ceylon siempre fue de lo mejor..
 @jdegoes From: https://t.co/STKjjBaWRR https://t.co/HipuVWsBY0
