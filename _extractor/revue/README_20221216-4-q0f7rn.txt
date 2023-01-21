@@ -1,0 +1,41 @@
+issue_stats.csv
+
+- issue_id: The issue unique ID this stat record belongs to
+- dropped: Number of dropped emails when sending this issue
+- delivered: Number of delivered emails when sending this issue
+- deferred: Number of deferred emails to later time when sending this issue
+- bounce: Number of bounced emails when sending this issue
+- open: Number of emails opened by the members
+- click: Number of clicks on links in the issue opened by members
+- spamreport: Number of times a member reported this issue as spam
+- unsubscribe: Number of members unsubscribed from the newsletter when sending the issue
+- processed: Number of emails that was processed to be sent
+- subscribers: Total number of subscribers this issue was meant to be sent to at the moment of sending this issue
+- repost: Number of times the user resent this issue
+- up: number of votes up for this issue
+- down: number of votes down for this issue
+
+------------------------
+issues.csv
+- id: Unique ID the identify this issue
+- description: Short description of the issue
+- sent_at:  date and time when the issue was sent by the user
+- subject: The head line of the issue, Used as email subject line.
+- preheader: a string used before the issue header
+
+------------------------
+items.json
+- title: Title of item
+- issue_id: The issue this item belongs to
+- item_type: Item type this can be a tweet, link, text, header, video or image
+- url: The url if the item is a link
+- description: The description of the item if applicable
+- order: The chronological position of the item in the issue
+- image: URL of the image if this is an image
+
+------------------------
+subscribers.csv
+- email: subscriber email address
+- first_name: first name of the subscriber
+- last_name: last name of the subscriber
+- created_at: when was the subscriber created
