@@ -58,7 +58,7 @@ ${item_content}
         `;
 
         return {
-            filename: `../_posts/${issue.id}.md`,
+            filename: `../_posts/${issue.id}.markdown`,
             content,
         };
     });
