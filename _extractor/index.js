@@ -57,8 +57,17 @@ date: '${issue.sent_at}'
 ${item_content}
         `;
 
+        const issueDate = new Date(issue.sent_at);
+
+        const title = issue.subject.replaceAll('#', '').replaceAll('-', '');
+        const year = issueDate.getFullYear();
+        const month = issueDate.getMonth().toString().padStart(2, '0');
+        const day = issueDate.getDay().toString().padStart(2, '0');
+
+        const filename = `../_posts/${year}-${month}-${day}-${title}.markdown`;
+
         return {
-            filename: `../_posts/${issue.id}.markdown`,
+            filename,
             content,
         };
     });
