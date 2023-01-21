@@ -112,8 +112,12 @@ Hillel Wayne, alguien bastante activo en Twitter y a quien Miguel sigue desde ha
 
 
 🤯🤯🤯
-🤯 NAVEGA los cambios de un fichero de GITHUB de esta forma tan INCREÍBLE. ¡Te enseño cómo en 20 segundos! ⬇️ https://t.co/La6jgMoA6E
-10 Popular CSS Frameworks For Your Next Project. A thread 🧵 ↓
+### Tweet 
+https://twitter.com/midudev/status/1502397612259004419
+
+### Tweet 
+https://twitter.com/parik36/status/1506594116422934529
+
 
 Recuerda que si quieres apoyarnos puedes hacerlo de varias maneras: compartiendo este [boletin](http://treasuremap.piratedevradio.tech/), en [Patreon](https://www.patreon.com/eldermael) desde 1 USD, y por supuesto dandonos retroalimentacion.
 ### ElderMael is creating Software Development Podcasts, Screencasts, Articles, Mentoring. | Patreon

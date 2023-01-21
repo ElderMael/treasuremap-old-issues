@@ -127,8 +127,12 @@ Miguel tiene la fortuna de ser invitado en The Dojo MX y esta vez hablamos de va
 
 
 Todos sabemos que Ceylon siempre fue de lo mejor..
-@jdegoes From: https://t.co/STKjjBaWRR https://t.co/HipuVWsBY0
-Cryptography: Do you know when to use a block or stream cipher -- or when to use a keyed cipher versus a symmetric cipher? Get a crash on cryptography from @HectorIP in his talk "Cryptography and Elixir" at @ElixirConf US 2022! https://t.co/wEJXMJvJBj #MyElixirStatus https://t.co/OFPfAqiboG
+### Tweet 
+https://twitter.com/1ovthafew/status/1351581504204394497
+
+### Tweet 
+https://twitter.com/ElixirConf/status/1554455370206265346
+
 
 Recuerda que si quieres apoyarnos puedes hacerlo de varias maneras: compartiendo este [boletin](http://treasuremap.piratedevradio.tech/), en [Patreon](https://www.patreon.com/eldermael) desde 1 USD, y por supuesto dandonos retroalimentacion.
 ### ElderMael is creating Software Development Podcasts, Screencasts, Articles, Mentoring. | Patreon

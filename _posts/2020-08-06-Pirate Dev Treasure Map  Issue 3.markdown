@@ -83,7 +83,9 @@ Para muchos, las revisiones anuales en las empresas son algo muy difícil y estr
 
 
 En este hilo en twitter, Nat Alison comparte su experiencia en Gatsby. La parte que me llamo mas la atencion fue la forma en que expresa como es que Gatsby quizo implementar diversidad con un objetivo de "50% hombres y 50% mujeres" ¿Entonces que pasa con las personas no binarias?. Sin duda aprendi mucho de como no tener una estrategia asi.
-Oh hey, the new site is up, which means it's time for A Thread about Gatsby (1/??) https://t.co/ozvsEyHqHH
+### Tweet 
+https://twitter.com/tesseralis/status/1293649007739191296
+
 Estuve viendo un video donde Miguel De Icaza menciona que los equipos diversos construyen mejores productos. No hice una cita en especifico pero me di la tarea de buscar y encontré este artículo de Hardvard Business Review donde explica que el tener diversidad en equipos de trabajo es benéfico.
 ### Why Diverse Teams Are Smarter
 [![Research shows they’re more successful in three important ways.](https://s3.amazonaws.com/revue/items/images/006/470/011/web/nov16-04-507171395.jpg?1599328086)](https://hbr.org/2016/11/why-diverse-teams-are-smarter)
@@ -117,9 +119,13 @@ En Prometheus 101, Ben Kochie nos muestra la arquitectura de Gitlab al usar esta
 
 
 👏👏👏👏
-There is no stable end state to the architecture of any complex software-intensive system: there may be many intermediate states that are stable for a short while, but every vibrant system that matters must embrace practices that allow that system's architecture to evolve.
+### Tweet 
+https://twitter.com/Grady_Booch/status/1295437723633717248
+
 Cada vez que alguien les quiera decir que Java es verboso, mandenle este tuit donde con un GIF podrá observar la evolución del lenguaje (vaya que es bastante la verbosidad que se ha eliminado, al punto que casi parece TypeScript al final).
-Refactoring Java 1.3 code to Java 12 #Java #Java12 #OpenJDK https://t.co/x5keuOeHNu
+### Tweet 
+https://twitter.com/ZhekaKozlov/status/1135506701438857217
+
 
 Si te gusto esta edición del boletín o tienes algo que mencionar, ¡Por favor mándanos tus comentarios y comparte con la comunidad! Esto lo puedes hacer [mandando un correo](mailto:sftwr.mael@gmail.com?subject=PirateDevNews%20-%20Feedback&body=Tu%20feedback%20aqui.).
 

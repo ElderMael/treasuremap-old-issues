@@ -94,9 +94,13 @@ Miguel recientemente comenzó a leer "The Win Without Pitching Manifesto" de Bla
 
 
 ¿Consideran que en su trabajo siempre se quedan estancados o no tienen las herramientas necesarias para seguir progresando? Este tweet de Shreyas Doshi podría ayudarte a ver como hacer que las cosas se muevan. Esto ayudó mucho a Miguel en retrospectiva sobre varias situaciones laborales con respecto a no tener las herramientas necesarias y evitar la frustración.
-Let’s talk about High Agency: an attitude I’ve seen in every successful product manager & leader I’ve known. Some ppl are born/raised with High Agency. It can also be developed later in life. High agency is a prerequisite for making a profound impact in one's life & work 1/20 https://t.co/8vPSbj4lKF
+### Tweet 
+https://twitter.com/shreyas/status/1276956836856393728
+
 🕵️🕵️
-The container ship Evergreen is a stark reminder that, at a certain level of abstraction, every system is a message passing system. (In this case, in the context of the world’s interlocking supply chains, the ship’s containers are literal packets of tangible messages.)
+### Tweet 
+https://twitter.com/Grady_Booch/status/1376940363240271872
+
 
 Si te gusto esta edición del boletín o tienes algo que mencionar, ¡Por favor mándanos tus comentarios y comparte con la comunidad! Esto lo puedes hacer [mandando un correo](mailto:sftwr.mael@gmail.com?subject=PirateDevNews%20-%20Feedback&body=Tu%20feedback%20aqui.).
 

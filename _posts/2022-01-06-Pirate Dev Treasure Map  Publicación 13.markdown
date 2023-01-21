@@ -108,10 +108,16 @@ En este articulo, Lawrence E. Hecht desmenuza el estudio de State of DevOps en r
 
 
 Un excelente hilo de Daniel Bryant sobre Platform Engineering. Miguel ha trabajado tanto en Platform Engineering y Productivity Engineering así que este hilo resonó bastante con él.
-"Platform Engineering" is rapidly becoming the new DevOps or SRE. Almost every day we hear about another org building an internal developer platform or control plane. Want to know what platform engineering is, where the trends are going, and why you should care? Read on 🧵👇
+### Tweet 
+https://twitter.com/danielbryantuk/status/1494614250567966732
+
 ¿Alguna vez se han preguntado dónde poner el estado de sus aplicaciones en React?
-Helpful diagram for when considering where to put state, courtesy of @kentcdodds and @meijer\_s. https://t.co/OwMjTuwC8d https://t.co/1Mff8C07fH
-Primer episodio de @PirateDevRadio que grabamos como twitter space. Gracias a los que se unieron. Pronto subiremos el episodio editado a las demas plataformas. https://t.co/gk05NlprbL
+### Tweet 
+https://twitter.com/Thomas_Hoadley/status/1491003482614411264
+
+### Tweet 
+https://twitter.com/eldermael/status/1494188747713298432
+
 
 Recuerda que si quieres apoyarnos puedes hacerlo de varias maneras: compartiendo este [boletin](http://treasuremap.piratedevradio.tech/), en [Patreon](https://www.patreon.com/eldermael) desde 1 USD, y por supuesto dandonos retroalimentacion.
 ### ElderMael is creating Software Development Podcasts, Screencasts, Articles, Mentoring. | Patreon

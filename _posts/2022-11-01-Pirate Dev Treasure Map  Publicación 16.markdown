@@ -95,9 +95,13 @@ Miguel ha estado participando semanalmente con Héctor de The Dojo MX sobre lo q
 
 
 ¡Me refiero a un README o similar, comentarios ya lo hace!
-Que GPT genere codigo es lo de menos. Cuando va a generar documentacion? Yo pagaria por eso.
+### Tweet 
+https://twitter.com/eldermael/status/1599831503726612480
+
 ¡Animo con TBD!
-The latest "State of DevOps Report" has some unexpected findings. One of them is on trunk-based development. @d\_stepanovic 👀 https://t.co/h2dXRTaJNv
+### Tweet 
+https://twitter.com/apostolis09/status/1588114642601234432
+
 
 Recuerda que si quieres apoyarnos puedes hacerlo de varias maneras: compartiendo este [boletin](http://treasuremap.piratedevradio.tech/), en [Patreon](https://www.patreon.com/eldermael) desde 1 USD, y por supuesto dandonos retroalimentacion.
 ### ElderMael is creating Software Development Podcasts, Screencasts, Articles, Mentoring. | Patreon

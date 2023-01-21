@@ -113,7 +113,9 @@ En varias mentorias por parte de Devz Community, Miguel ha hecho dos practicas p
 
 
 Ya estoy usando algunos de estos sitios. Comparto porque han sido útiles.
-Are you a web developer? Here 5 websites that will save you 4+ hours per week ↓
+### Tweet 
+https://twitter.com/nickbulljs/status/1366274559746400258
+
 
 Si te gusto esta edición del boletín o tienes algo que mencionar, ¡Por favor mándanos tus comentarios y comparte con la comunidad! Esto lo puedes hacer [mandando un correo](mailto:sftwr.mael@gmail.com?subject=PirateDevNews%20-%20Feedback&body=Tu%20feedback%20aqui.).
 

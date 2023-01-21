@@ -61,7 +61,9 @@ En este artículo, Emmanuel Goossaert nos da su perspectiva para lograr esto.
 [![As a manager, you'll face 1-on-1s in which someone will tell you "I have nothing to share." Here is my approach to unblock such conversations.Continue reading...How to Get Your Silent 1-on-1s Back on Track](https://s3.amazonaws.com/revue/items/images/011/468/799/web/linkedin-sales-solutions-AXDunSs-n4-unsplash-e1631192458575.jpg?1633095513)](https://codecapsule.com/2021/09/09/how-to-get-your-silent-1-on-1s-back-on-track/?utm_source=pocket_mylist)
 
 
-In my experience, for a software development to focus on reuse is misguided. Instead, focus on a culture of refactoring: not only will this yield simpler software with increasingly higher quality, in the fullness of time reuse will emerge in the form of patterns and frameworks.
+### Tweet 
+https://twitter.com/Grady_Booch/status/1436483263577530370
+
 Desde un punto de vista arquitectónico, este artículo de Eric Bailey nos da un panorama de las desiciones de diseño para sistemas que requieren traducción y localización (incluyendo dispositivos y más). Una lectura interesante para quienes nos hemos enfrentado a este tipo de retos.
 ### Three file icons. The first is labeled, “Noto Sans, 30 kilobytes.” The second is labeled, “Noto Sans HK, 1.69 megabytes.” The third icon is two file icons stacked on top of each other, with a label that reads, “Total download, 1.72 megabytes.”
 [![Forget inverting binary trees, translating or localizing a digital experience is one of the most difficult things you can do with software.](https://s3.amazonaws.com/revue/items/images/011/469/459/web/facebook.png?1633097243)](https://ericwbailey.design/writing/what-they-dont-tell-you-when-you-translate-your-app/)
@@ -104,9 +106,13 @@ Esta presentación de Brandon Sherman nos habla de las limitaciones de la nube d
 
 
 🕵️🕵️🕵️🕵️🕵️🕵️
-Did you know ransomware was predicted in an IEEE Security & Privacy paper in 1996? (The first real ransomware was in 2013) https://t.co/NOWM66qyGl
+### Tweet 
+https://twitter.com/d_feldman/status/1438949330514284546
+
 ¿Quieren ver como crear monadas en Rust?
-I swear this is some kind of substance abuse. https://t.co/UUA7s9y59O
+### Tweet 
+https://twitter.com/bodil/status/1276677574131924992
+
 A fin de cuentas tienes que refactorizar el monolito... o los microservicios.
 
 Recuerda que si quieres apoyarnos puedes hacerlo de varias maneras: compartiendo este [boletin](http://treasuremap.piratedevradio.tech/), en [Patreon](https://www.patreon.com/eldermael) desde 1 USD, y por supuesto dandonos retroalimentacion.

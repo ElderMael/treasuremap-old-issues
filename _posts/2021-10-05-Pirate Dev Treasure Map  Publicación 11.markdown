@@ -101,9 +101,13 @@ En este episodio de The Dojo MX, Hector y Alejandro tienen una plática tendida 
 
 
 Un hilo bastante chusco y al mismo tiempo tenebroso sobre Linux y el stack gráfico. Las consecuencias de arquitecturas que fueron hechas hace años se pueden ver aquí.
-¿Queríais rant sobre el lamentable estado del stack gráfico de Linux? ¡Pues allá vamos! ⬇ ⚠ hilo extremadamente largo y algo técnico (aunque he intentado simplificar)
+### Tweet 
+https://twitter.com/devruso/status/1457641774705434625
+
 Aunque Miguel piensa que Pair Programming también da mas calidad en la mayoría de los casos...
-OH: a pair must deliver more work than an individual (in the context of "allowing" pair programming at university) Nope. Pair programming is about better quality & knowledge transfer, higher quantity is not in the focus...
+### Tweet 
+https://twitter.com/JuttaEckstein/status/1454002930818949122
+
 
 Recuerda que si quieres apoyarnos puedes hacerlo de varias maneras: compartiendo este [boletin](http://treasuremap.piratedevradio.tech/), en [Patreon](https://www.patreon.com/eldermael) desde 1 USD, y por supuesto dandonos retroalimentacion.
 ### ElderMael is creating Software Development Podcasts, Screencasts, Articles, Mentoring. | Patreon

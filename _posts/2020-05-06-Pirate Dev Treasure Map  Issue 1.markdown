@@ -97,9 +97,13 @@ Una excelente conferencia de Lorena Mesa de GitHub en Strange Loop. La parte mas
 
 
 Si se lo perdieron, [@neodevelop](https://twitter.com/neodevelop) dio un muy buen taller sobre refactorizar bases de datos. Aquí el link para la grabación.
-Lista la grabación del workshop de Database Refactoring, si te lo perdiste lo puedes ver aquí: https://t.co/7DcDuKx5qm ¡Gracias @neodevelop @jvm\_mx @makingdevs por compartir!
+### Tweet 
+https://twitter.com/javamexico/status/1273335856821161986
+
 Bruno Borges pidiendo el voto de la comunidad preguntando si Microsoft debería dejar de usar YAML para Azure DevOps Pipelines. Como ustedes saben, Miguel siempre ha detestado poner lógica en YAML y mas en herramientas de CI/CD.
-Should @GitHub Actions and @AzureDevOps Pipelines move to a different file format (away from #YAML) for configuring CICD build pipelines? #GitHub #CICD
+### Tweet 
+https://twitter.com/brunoborges/status/1273292581577863169
+
 
 Si te gusto esta edición del boletín o tienes algo que mencionar, ¡Por favor mándanos tus comentarios y comparte con la comunidad! Esto lo puedes hacer [mandando un correo](mailto:sftwr.mael@gmail.com?subject=PirateDevNews%20-%20Feedback&body=Tu%20feedback%20aqui.).
 

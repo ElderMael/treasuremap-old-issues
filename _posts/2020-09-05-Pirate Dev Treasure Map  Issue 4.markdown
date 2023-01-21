@@ -105,9 +105,13 @@ Miguel tuvo la fortuna de estar en vivo en este episodio de The Open Enchilada P
 
 
 Y aqui vamos de nuevo!
-2000's: use relational databases 2010's: actually, use document databases 2020's: nvm, use relational databases
+### Tweet 
+https://twitter.com/ryanchenkie/status/1303781123546324994
+
 Tomas Lin resuena con este comentario sobre equipos de plataformas.
-Something I noticed moving away from a central team is that people are scared of engaging w/ central platform teams and treat their support as last resort. But when you’re the central team you don’t know this and use engagement as a signal of system health...
+### Tweet 
+https://twitter.com/tomaslin/status/1314248858398932992
+
 
 Si te gusto esta edición del boletín o tienes algo que mencionar, ¡Por favor mándanos tus comentarios y comparte con la comunidad! Esto lo puedes hacer [mandando un correo](mailto:sftwr.mael@gmail.com?subject=PirateDevNews%20-%20Feedback&body=Tu%20feedback%20aqui.).
 

@@ -74,8 +74,12 @@ Este es un video muy viejo pero los principios no han cambiado. El uso de arquit
 [![¿Cómo crecen las arquitecturas?, ¿Como podemos hacerlas crecer?, ¿Qué problemas podemos encontrar?, ¿Que tipo de paradigmas hay que conocer para tener arquit...](https://s3.amazonaws.com/revue/items/images/010/186/705/web/maxresdefault.jpg?1626838492)](https://www.youtube.com/watch?v=pYFwNU0xreE)
 
 
-Companies don't want to hire juniors. They don't want to promote people internally. But only want to hire seniors. How is this supposed to work exactly?
-No user will log in, pat themselves on the back for doing a good day’s work, then go home. Logging in provides zero value to your user. It is NOT a USER story.
+### Tweet 
+https://twitter.com/venikunche/status/1413471849699184649
+
+### Tweet 
+https://twitter.com/allenholub/status/1413925007168659459
+
 
 Si te gusto esta edición del boletín o tienes algo que mencionar, ¡Por favor mándanos tus comentarios y comparte con la comunidad! Esto lo puedes hacer [mandando un correo](mailto:sftwr.mael@gmail.com?subject=PirateDevNews%20-%20Feedback&body=Tu%20feedback%20aqui.).
 

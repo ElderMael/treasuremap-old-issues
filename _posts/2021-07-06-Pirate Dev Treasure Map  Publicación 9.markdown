@@ -82,9 +82,13 @@ Adam Shostack, a quien Miguel conoce por haber escrito el libro sobre Threat Mod
 
 
 🤷
-Puedes empezar a programar con JavaScript y tienes la posibilidad de ser: Frontend si le agregas html y css Backend si le agregas Node + Framework Infra si le agregas Pulumi. Ya con JS las barreras son menos 😳
+### Tweet 
+https://twitter.com/eldermael/status/1425998068210622469
+
 A fin de cuentas tienes que refactorizar el monolito... o los microservicios.
-Nothing will “save” you from complexity & stretched systems. Not: • monoliths • microservices • cloud • k8s • FaaS • Event-driven architectures • $YOUR\_FAVORITE Just buckle up, enjoy the ride, hope the market’s random roll grants you 💰
+### Tweet 
+https://twitter.com/jhscott/status/1424189297532440580
+
 
 Recuerda que si quieres apoyarnos puedes hacerlo de varias maneras: compartiendo este [boletin](http://treasuremap.piratedevradio.tech/), en [Patreon](https://www.patreon.com/eldermael) desde 1 USD, y por supuesto dandonos retroalimentacion.
 ### ElderMael is creating Software Development Podcasts, Screencasts, Articles, Mentoring. | Patreon

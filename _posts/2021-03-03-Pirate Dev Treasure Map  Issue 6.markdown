@@ -101,9 +101,13 @@ Brie Bunge habla sobre cómo AirBnB adoptó TypeScript (uno de los lenguajes fav
 
 Definitivamente no recomiendo usar Kubernetes si no es manejado (EKS, AKS, Openshift en las diferentes nubes).
 🤣🤣🤣🤣🤣🤣
-When people ask me why I think using k8s for MVP infra development is insane🤦‍♂️ https://t.co/FFkkg8Lh1x
+### Tweet 
+https://twitter.com/larsx2/status/1383985201458466820
+
 🤣🤣🤣🤣🤣🤣🤣🤣
-What I’m really looking for when hiring an engineer https://t.co/377rnD38OX
+### Tweet 
+https://twitter.com/helenhousandi/status/1381251125022765064
+
 
 Si te gusto esta edición del boletín o tienes algo que mencionar, ¡Por favor mándanos tus comentarios y comparte con la comunidad! Esto lo puedes hacer [mandando un correo](mailto:sftwr.mael@gmail.com?subject=PirateDevNews%20-%20Feedback&body=Tu%20feedback%20aqui.).
 

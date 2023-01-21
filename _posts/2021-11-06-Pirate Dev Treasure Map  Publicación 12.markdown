@@ -105,7 +105,9 @@ goto; Conferences nos da este video con un montón de recomendaciones para lectu
 
 
 Para quienes les gusta la programación letrada con Emacs
-Literate programming in #emacs using org mode and org babel. https://t.co/AOpYwpnmq7
+### Tweet 
+https://twitter.com/NPRougier/status/1472865797462802434
+
 
 Recuerda que si quieres apoyarnos puedes hacerlo de varias maneras: compartiendo este [boletin](http://treasuremap.piratedevradio.tech/), en [Patreon](https://www.patreon.com/eldermael) desde 1 USD, y por supuesto dandonos retroalimentacion.
 ### ElderMael is creating Software Development Podcasts, Screencasts, Articles, Mentoring. | Patreon

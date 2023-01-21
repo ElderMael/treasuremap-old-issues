@@ -68,7 +68,9 @@ is available as a pdf file. 
 ](undefined)](https://lamport.azurewebsites.net/pubs/pubs.html)
 
 No un artículo como tal, pero ACM abrirá su Biblioteca Digital paulatinamente en los próximos 5 años. ACM es un gran recurso para desarrolladores para artículos académicos.
-Good news! @TheOfficialACM Council met yesterday and passed a major open access resolution: "Council adopts the goal of opening the Digital Library within five years given that this can be achieved in a way that is sustainable for ACM... 1/5
+### Tweet 
+https://twitter.com/JAldrichCMU/status/1274537494638473219
+
 
 Hace poco Uber compartió en su blog de ingeniería un artículo sobre la forma en que organizan sus microservicios. En el momento de redactar esta entrada, el artículo por alguna razón fue borrado así que dejo un link en Wayback Machine.
 ### Introducing Domain-Oriented Microservice Architecture | Uber Engineering Blog
@@ -93,7 +95,9 @@ Si tienen 6 horas libres, esta conversación entre Enrique Zamudio (chochosmx) y
 [![Twitch is the world's leading video platform and community for gamers.](https://s3.amazonaws.com/revue/items/images/006/343/516/web/twitch_logo3.jpg?1596700031)](https://www.twitch.tv/videos/689811891)
 
 
-2020: Libraries are the reason for software bloat. 1993: Lack of libraries are the reason for software bloat. https://t.co/0P0u6s7B6a
+### Tweet 
+https://twitter.com/geoffwozniak/status/1289387433759592449
+
 
 Google comenzará a expedir certificados para ciertos trabajos.
 ### Google Career Certificates

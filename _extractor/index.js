@@ -14,6 +14,11 @@ async function extractContentFrom(issue) {
     const text = orderedItems.map(item => {
 
         switch (item.item_type) {
+            case 'tweet':
+                return `### Tweet 
+${item.url}
+`;
+
             case 'text':
                 return html2md(item.description);
 
