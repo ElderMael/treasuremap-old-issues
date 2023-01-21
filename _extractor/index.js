@@ -21,13 +21,21 @@ async function extractContentFrom(issue) {
                 return `## ${item.description}`;
 
             case 'video':
+                const videoUrl = item.url
+                    .replaceAll('https://youtu.be/', 'https://www.youtube.com/embed/')
+                    .replaceAll('https://www.youtube.com/watch?v=', 'https://www.youtube.com/embed/');
                 return `### ${item.description}
-<iframe 
-    width="420" 
+< 
+    width="560" 
     height="315" 
-    src="${item.url}" 
+    src="${videoUrl}"
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; 
+    encrypted-media; gyroscope; picture-in-picture; web-share" 
     allowfullscreen>
-</iframe>`;
+</iframe>
+`;
 
             case 'link':
                 return `### ${item.title}

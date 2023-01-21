@@ -5,12 +5,17 @@ date: '2022-02-19 20:15:20 UTC'
 ---
 ## 
 ### PirateDevRadio - S02E09 - Monorepos y LatAm Startups Con Dificultades Para Contratar
-<iframe 
-    width="420" 
+< 
+    width="560" 
     height="315" 
-    src="https://www.youtube.com/watch?v=su3TS_8xfDw" 
+    src="https://www.youtube.com/embed/su3TS_8xfDw"
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; 
+    encrypted-media; gyroscope; picture-in-picture; web-share" 
     allowfullscreen>
 </iframe>
+
 Hola Piratas! Estamos de regreso. En este episodio el tema principal fue Monorepos y aunque la platica fue corta, tambien fue el primer episodio que dimos en vivo por Twitter Spaces.
 ## Topicos
 
@@ -90,12 +95,17 @@ En este articulo, Lawrence E. Hecht desmenuza el estudio de State of DevOps en r
 ## 
 “Design Microservices Architectures the Right Way” es una plática de Michael Bryzek especialmente interesante para aquellos que no sólo ya tienen una arquitectura de microservicios sino para los que queremos evolucionar.
 ### Design Microservice Architectures the Right Way
-<iframe 
-    width="420" 
+< 
+    width="560" 
     height="315" 
-    src="https://www.youtube.com/watch?v=j6ow-UemzBc" 
+    src="https://www.youtube.com/embed/j6ow-UemzBc"
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; 
+    encrypted-media; gyroscope; picture-in-picture; web-share" 
     allowfullscreen>
 </iframe>
+
 ## 
 Un excelente hilo de Daniel Bryant sobre Platform Engineering. Miguel ha trabajado tanto en Platform Engineering y Productivity Engineering así que este hilo resonó bastante con él.
 "Platform Engineering" is rapidly becoming the new DevOps or SRE. Almost every day we hear about another org building an internal developer platform or control plane. Want to know what platform engineering is, where the trends are going, and why you should care? Read on 🧵👇

@@ -5,12 +5,17 @@ date: '2021-10-01 14:20:13 UTC'
 ---
 ## 
 ### PirateDevRadio - S02E06 - Web 3, Centralizacion, Procesos de Desarrollo
-<iframe 
-    width="420" 
+< 
+    width="560" 
     height="315" 
-    src="https://youtu.be/F3ASTpRtAEI" 
+    src="https://www.youtube.com/embed/F3ASTpRtAEI"
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; 
+    encrypted-media; gyroscope; picture-in-picture; web-share" 
     allowfullscreen>
 </iframe>
+
 Hola Piratas, en este episodio tuvimos 3 tópicos. Esperemos que les guste.
 ## Topicos
 
@@ -73,20 +78,30 @@ Este artículo de Tailscale nos explica como funciona Magic DNS (que permite acc
 ## 
 Miguel ha trabajado durante un tiempo usando [K3s](https://k3s.io/) en su trabajo y le ha encantado. Microshift parece estar convirtiéndose en una alternativa viable (con el sabor de IBM/Red Hat que a algunos les puede agradar). Solo recuerden que las licencias suelen ser costosas 💸💸💸💸
 ### MicroShift End to End Provisioning Demo
-<iframe 
-    width="420" 
+< 
+    width="560" 
     height="315" 
-    src="https://www.youtube.com/watch?v=QOiB8NExtA4" 
+    src="https://www.youtube.com/embed/QOiB8NExtA4"
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; 
+    encrypted-media; gyroscope; picture-in-picture; web-share" 
     allowfullscreen>
 </iframe>
+
 Esta presentación de Brandon Sherman nos habla de las limitaciones de la nube desde la perspectiva de infosec. Además de cómo evolucionan los sistemas cuando incluso la nube empieza a mostrar limitaciones de una sola cuenta. ¡Miguel piensa que esta es una presentación que deja bastante que aprender!
 ### "What I wished someone told me before going multi-account" - Brandon Sherman
-<iframe 
-    width="420" 
+< 
+    width="560" 
     height="315" 
-    src="https://www.youtube.com/watch?v=_JGXdOyVugg" 
+    src="https://www.youtube.com/embed/_JGXdOyVugg"
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; 
+    encrypted-media; gyroscope; picture-in-picture; web-share" 
     allowfullscreen>
 </iframe>
+
 ## 
 🕵️🕵️🕵️🕵️🕵️🕵️
 Did you know ransomware was predicted in an IEEE Security & Privacy paper in 1996? (The first real ransomware was in 2013) https://t.co/NOWM66qyGl

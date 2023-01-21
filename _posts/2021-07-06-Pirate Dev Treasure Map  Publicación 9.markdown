@@ -6,12 +6,17 @@ date: '2021-08-14 21:39:17 UTC'
 ## 
 En este episodio, el quinto de nuestra segunda temporada, tenemos por fin un invitado. Jose Fernandez nos ayuda a expandir nuestra perspectiva sobre migraciones tecnológicas (modernizaciones) en compañías grandes.
 ### PirateDevRadio - S02E05 - Migraciones Grandes y su Arquitectura
-<iframe 
-    width="420" 
+< 
+    width="560" 
     height="315" 
-    src="https://www.youtube.com/watch?v=LMG_msRJz3I" 
+    src="https://www.youtube.com/embed/LMG_msRJz3I"
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; 
+    encrypted-media; gyroscope; picture-in-picture; web-share" 
     allowfullscreen>
 </iframe>
+
 ## Topicos
 
 ## Github Permite Usar VS Code en Cualquier Repo
@@ -64,12 +69,17 @@ Es muy estereotipado pensar que los programadores y desarrolladores de software 
 ## 
 Adam Shostack, a quien Miguel conoce por haber escrito el libro sobre Threat Modeling, nos da una interesante plática sobre qué esperar en infosec este año. Algo muy rescatable es el modelo que él usa (STRIDE) y como es que sigue tan vigente.
 ### THREAT MODELING IN 2021 with Adam Shostack
-<iframe 
-    width="420" 
+< 
+    width="560" 
     height="315" 
-    src="https://www.youtube.com/watch?v=7jB5OS6mepU" 
+    src="https://www.youtube.com/embed/7jB5OS6mepU"
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; 
+    encrypted-media; gyroscope; picture-in-picture; web-share" 
     allowfullscreen>
 </iframe>
+
 ## 
 🤷
 Puedes empezar a programar con JavaScript y tienes la posibilidad de ser: Frontend si le agregas html y css Backend si le agregas Node + Framework Infra si le agregas Pulumi. Ya con JS las barreras son menos 😳
